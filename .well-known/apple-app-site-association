@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "7QT2BR97XJ.antnbaranov.Baranov" ],
+        "components": [
+          {
+            "/": "/l/*"
+          }
+        ]
+      }
+    ]
+  }
+}
